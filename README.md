@@ -27,4 +27,4 @@
 - Hack The Box
 
 ### Contact
-- LinkedIn: Add your LinkedIn later
+- LinkedIn: 
