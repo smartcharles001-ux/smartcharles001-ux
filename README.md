@@ -21,3 +21,10 @@
 - Build real cybersecurity projects
 - Complete more CTFs
 - Create a professional portfolio
+
+### Platforms
+- TryHackMe
+- Hack The Box
+
+### Contact
+- LinkedIn: Add your LinkedIn later
