@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Smart Charles 👋
 
-<!--
-**smartcharles001-ux/smartcharles001-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Student & Ethical Hacking Enthusiast
 
-Here are some ideas to get you started:
+### About Me
+- Learning penetration testing
+- Practicing on TryHackMe & Hack The Box
+- Building cybersecurity labs
+- Interested in SOC analysis and web security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Linux
+- Networking
+- Nmap
+- Wireshark
+- Burp Suite
+- Python
+- Bash
+
+### Current Goals
+- Build real cybersecurity projects
+- Complete more CTFs
+- Create a professional portfolio
